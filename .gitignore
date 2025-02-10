@@ -51,3 +51,5 @@ yarn.lock
 
 # Optional Jest coverage directory
 coverage/
+
+firebase-admin-sdk.json
